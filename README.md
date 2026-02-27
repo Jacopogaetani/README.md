@@ -10,7 +10,7 @@
 ```yaml
 name: Jacopo Gaetani
 located_in: Italy
-Studendt: true
+Studend: true
 education:
   [
     "3rd year of High school IT - Computer science",
