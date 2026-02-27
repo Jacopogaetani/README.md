@@ -14,7 +14,7 @@ Studendt: true
 education:
   [
     "3rd year of High school IT - Computer science",
-    "Self-touhght in Linux world!",
+    "Self-tauhght in Linux world!",
   ]
 
 favourite videogames:
