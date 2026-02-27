@@ -1,6 +1,6 @@
-<p align = "center>
+<div align="center">
 <img src="immagini/image.png">
-<p>
+<div>
     
 <p align="center">
 <img src ="https://tenor.com/view/gundam-wing-hello-kitty-battle-fight-me-showdown-gif-14899212.gif" alt = "gundam">
