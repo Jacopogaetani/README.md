@@ -1,4 +1,3 @@
-[CREATE BANNER](https://liyasthomas.github.io/banner/)
 
 
 <p align="center">
