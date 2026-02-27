@@ -10,37 +10,38 @@
 
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+name: Jacopo Gaetani
+located_in: Italy
+Studendt: true
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "3rd year of High school IT - Computer science",
+    "Self-touhght in Linux world!",
   ]
-company: Soulber
 
-fields_of_interests:
+favourite videogames:
   [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+      "Clair Obscur: Expedition 33",
+      "Baldur's gate 3",
+      "Watch dogs 2",
+      "Bloodborne",
+  
   ]
-technical_background:
+hobbies:
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Dungeons and Dragons with my friends",
+    "Music",
+    favourite bands:
+    [
+        "Nirvana",
+        "Linkin park",
+        "Minor threat",
+    ]
+
+    
   ]
   
 currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
   </p>  
