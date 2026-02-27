@@ -7,5 +7,5 @@
 </p>
 
 <h1 align="center">
-  I miei contatti:
+  Find me here!
   </h1>
